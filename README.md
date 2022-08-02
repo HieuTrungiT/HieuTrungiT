@@ -51,9 +51,14 @@
 
 # 📊 GitHub Stats:
 
+</br>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=HieuTrungiT&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=HieuTrungiT&theme=dark&hide_border=false" />
+</p>
+</br>
 
-![](https://github-readme-stats.vercel.app/api?username=HieuTrungiT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HieuTrungiT&theme=dark&hide_border=false)</br>
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTrungiT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
