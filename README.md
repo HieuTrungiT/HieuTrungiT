@@ -3,7 +3,8 @@
 </p>
 
 👋 Xin chào, tôi là Vũ Hiếu Trung, một nhà phát triển web và app đam mê tự học và là một sinh viên sắp ra trường đến từ Việt nam. niềm đam mê của tôi dành cho phần mềm nằm ở việc lên ý tưởng và biến chúng thành hiện thực với giao diện trang nhã. tôi rất quan tâm đến trải nghiệm, kiến ​​trúc và chất lượng code của tôi tạo ra.
-# ✨ Quick Facts:
+
+# <img src = "https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width = 32px> Quick Facts:
 
 👨🏽‍💻 Tôi hiện đang làm việc với tư cách là một Developer & UI <br/>
 🌱 Tôi hiện đang học tại FPT Polytechnic <br/>
