@@ -1,6 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=54F724&center=true&vCenter=true&lines=%3C+Welcome!!!+%2F%3E;My+name+is+Trung;I+am+a+developer" alt="Typing SVG" /></a>
 
 
-# 💻 Tech Stack:
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills:
 #### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -47,7 +48,7 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 
-# 📊 GitHub Stats:
+# <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>  GitHub Stats:
 
 </br>
 <p align= "center">
