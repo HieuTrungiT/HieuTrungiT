@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&size=25&duration=5001&color=54F724&center=true&vCenter=true&width=412&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Trung;I+am+a+developer" alt="Typing SVG" /></a>
 </p>
 
-Xin chào, tôi là Vũ Hiếu Trung, một nhà phát triển web và app đam mê tự học và là một sinh viên sắp ra trường đến từ Việt nam. niềm đam mê của tôi dành cho phần mềm nằm ở việc lên ý tưởng và biến chúng thành hiện thực với giao diện trang nhã. tôi rất quan tâm đến trải nghiệm, kiến ​​trúc và chất lượng code của tôi tạo ra.
+👋 Xin chào, tôi là Vũ Hiếu Trung, một nhà phát triển web và app đam mê tự học và là một sinh viên sắp ra trường đến từ Việt nam. niềm đam mê của tôi dành cho phần mềm nằm ở việc lên ý tưởng và biến chúng thành hiện thực với giao diện trang nhã. tôi rất quan tâm đến trải nghiệm, kiến ​​trúc và chất lượng code của tôi tạo ra.
 # ✨ Quick Facts:
 
 👨🏽‍💻 Tôi hiện đang làm việc với tư cách là một Developer & UI <br/>
